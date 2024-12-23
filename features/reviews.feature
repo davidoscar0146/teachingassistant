@@ -35,8 +35,5 @@ Scenario: o usuário não encontra nenhuma review publicada de um outro usuário
     Then ele é redirecionado para a pagina "usuario_quinhas_ab"
     And é exibido no sistema a mensagem "Este usuário ainda não publicou nenhuma review."
 
-<<<<<<< HEAD
-Mudança inserida
-=======
 aaaaaaa
->>>>>>> dev
+nova inclusao

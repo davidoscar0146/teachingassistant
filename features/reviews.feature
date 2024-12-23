@@ -36,3 +36,4 @@ Scenario: o usuário não encontra nenhuma review publicada de um outro usuário
     And é exibido no sistema a mensagem "Este usuário ainda não publicou nenhuma review."
 
 aaaaaaa
+teste
